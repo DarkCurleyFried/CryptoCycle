@@ -72,7 +72,7 @@ Feel free to fork, learn, and build – no commercial use without permission.
 
 ## 🧠 Author
 
-Built by [Chris] – a systems thinker, embedded engineer, and cryptoeconomics explorer.  
+Built by [Christopher Puchanan] – a systems thinker, embedded engineer, and cryptoeconomics explorer.  
 Feel free to reach out or contribute via pull request!
 
 ---
