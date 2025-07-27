@@ -76,4 +76,4 @@ If you're interested in contributing, open an issue or contact the repo maintain
 
 ---
 
-*Initial draft by Chris / Lunia, 2025.*
+*Initial draft by Christopher Puchanan / Lu, 2025.*
