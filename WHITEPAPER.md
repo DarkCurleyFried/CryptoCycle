@@ -1,7 +1,7 @@
-# CoinCycle
+# CryptoCycle
 
 ### Mission Statement
-*CoinCycle is a decentralized protocol that collects low-value or unused crypto tokens from users, consolidates them, and strategically reinvests them into promising crypto assets. Profits are redistributed proportionally to contributors based on their initial donation value, while a small protocol fee is retained to support development and sustainability.*
+*CryptoCycle is a decentralized protocol that collects low-value or unused crypto tokens from users, consolidates them, and strategically reinvests them into promising crypto assets. Profits are redistributed proportionally to contributors based on their initial donation value, while a small protocol fee is retained to support development and sustainability.*
 
 ---
 
@@ -10,7 +10,7 @@
 ### 1. Introduction
 - Problem: Many users hold insignificant amounts of diverse tokens they no longer use.
 - Opportunity: These tokens could be pooled, converted, and reinvested to generate returns.
-- Solution: CoinCycle creates a trustless smart contract system to automate this process.
+- Solution: CryptoCycle creates a trustless smart contract system to automate this process.
 
 ### 2. Architecture Overview
 - **Users** contribute low-value tokens to the CoinCycle vault.
