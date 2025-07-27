@@ -1,12 +1,12 @@
-# CoinCycle
+# CryptoCycle
 
 **Recycle the Dust. Reclaim the Value.**
 
-CoinCycle is a decentralized protocol that collects low-value or idle crypto tokens (a.k.a. "dust"), aggregates them, reinvests them into promising DeFi opportunities, and redistributes the profits proportionally back to the original contributors.
+CryptoCycle is a decentralized protocol that collects low-value or idle crypto tokens (a.k.a. "dust"), aggregates them, reinvests them into promising DeFi opportunities, and redistributes the profits proportionally back to the original contributors.
 
 ---
 
-## 🌍 Why CoinCycle?
+## 🌍 Why CryptoCycle?
 
 Many users hold small amounts of worthless or forgotten tokens that cannot be traded or used. CoinCycle turns this passive "dust" into active potential by:
 
