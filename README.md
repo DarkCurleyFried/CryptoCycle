@@ -21,7 +21,7 @@ Many users hold small amounts of worthless or forgotten tokens that cannot be tr
 ## ⚙️ How It Works
 
 1. **Token Deposit**  
-   Users send unwanted tokens to the CoinCycle smart contract.
+   Users send unwanted tokens to the CryptoCycle smart contract.
 
 2. **Conversion & Pooling**  
    The contract aggregates these tokens and swaps them into stablecoins.

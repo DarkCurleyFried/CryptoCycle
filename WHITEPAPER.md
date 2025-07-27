@@ -13,7 +13,7 @@
 - Solution: CryptoCycle creates a trustless smart contract system to automate this process.
 
 ### 2. Architecture Overview
-- **Users** contribute low-value tokens to the CoinCycle vault.
+- **Users** contribute low-value tokens to the CryptoCycle vault.
 - **Oracle integration (e.g., Chainlink)** calculates approximate market value at entry.
 - **Swapping Layer** (Uniswap/1inch) converts tokens into stable or target assets.
 - **Investment Strategy** deploys pooled funds into DeFi yield protocols (e.g., Aave, Yearn).
@@ -49,7 +49,7 @@
 
 ## Repository Structure
 ```
-CoinCycle/
+CryptoCycle/
 ├── contracts/             # Smart contracts (Solidity)
 │   └── Vault.sol
 ├── frontend/              # React/Next.js dApp frontend
